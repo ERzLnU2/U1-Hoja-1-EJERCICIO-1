@@ -1,9 +1,9 @@
 # EJERCICIO-1-Hoja-1
 Modificar variables de programa JAVA
  
-  • Dado el siguiente programa, modifícalo para utilizar las variables que se indican. 
+  🔴 Dado el siguiente programa, modifícalo para utilizar las variables que se indican. 
   
-  • El tipo de dato elegido debe ser el de menos bits posibles que puedan representar 
+  🔴 El tipo de dato elegido debe ser el de menos bits posibles que puedan representar 
     el valor. Justificar elección.
 
      🏴 a. Nombre de la variable: casado, Si un empleado está casado o no. 
